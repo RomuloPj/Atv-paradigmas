@@ -1,0 +1,23 @@
+body{
+
+    background-color: teal;
+    font: 25pt Arial;
+   
+
+}
+
+div{
+
+    text-align: center;
+}
+
+section{
+
+    background-color: whitesmoke;
+    border-radius: 20px;
+    padding: 30px;
+    margin: 1px;
+    box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.13);
+    align-items: flex-end;
+
+}
